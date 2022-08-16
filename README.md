@@ -9,6 +9,7 @@ Obiective: <br />
  + Atașarea de funcții de tratare pentru evenimentele controalelor utilizate <br />
  + Implementarea cerințelor specifice temei alocate <br />
   
+  
 *TEHNOLOGIILE UTILIZATE:* <br />
 ֍ Limbajele de programare – HTML, CSS, JavaScript <br />
 ֍ Mediul de dezvoltare – Visual Studio Code <br />
