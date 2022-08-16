@@ -1,10 +1,11 @@
 # JOC ASTEROIDS - PROIECT MULTIMEDIA 
 
 Descriere: Realizarea unui joc similar cu Asteroids (https://en.wikipedia.org/wiki/Asteroids_(video_game)) utilizând controlul de tip <canvas> sau controlul de tip <svg>.
+ 
 Obiective: <br />
- + Realizarea unei interfețe cu utilizatorul pentru tema primită folosind limbajele HTML și CSS
- + Atașarea de funcții de tratare pentru evenimentele controalelor utilizate
- + Implementarea cerințelor specifice temei alocate 
+ + Realizarea unei interfețe cu utilizatorul pentru tema primită folosind limbajele HTML și CSS <br />
+ + Atașarea de funcții de tratare pentru evenimentele controalelor utilizate <br />
+ + Implementarea cerințelor specifice temei alocate <br />
   
 *TEHNOLOGIILE UTILIZATE:* <br />
 ֍ Limbajele de programare – HTML, CSS, JavaScript <br />
