@@ -1,5 +1,7 @@
 # JOC ASTEROIDS - PROIECT MULTIMEDIA 
 
+În cadrul disciplinei Multimedia am realizat individual un proiect ce constă în realizarea unui joc single-player, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
+
 Descriere: Realizarea unui joc similar cu Asteroids (https://en.wikipedia.org/wiki/Asteroids_(video_game)) utilizând controlul de tip Canvas sau controlul de tip SVG.
  
 Obiective: <br />
