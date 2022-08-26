@@ -12,7 +12,7 @@ Obiective: <br />
   
 *TEHNOLOGIILE UTILIZATE:* <br />
 ֍ Limbajele de programare – **HTML, CSS, JavaScript** <br />
-֍ Mediul de dezvoltare – Visual Studio Code <br />
+֍ Mediul de dezvoltare – **Visual Studio Code** <br />
 
 *CERINȚELE PROIECTULUI:* <br />
 ֍ implementare *asteroizi* (reprezentați sub formă de cerc): fiecare asteroid va avea asociată o valoare generată aleator în intervalul 1-4, indicând numărul de rachete necesar pentru distrugerea acestuia. Numărul de rachete necesare va fi afișat în permanență în cadrul desenului utilizat pentru asteroid. Culoarea și dimensiunea asteroidului se vor modifica în funcție de acest număr. Asteroizii se vor deplasa pe traiectorii liniare cu o viteză determinată aleator. <br />
