@@ -23,3 +23,5 @@ Obiective: <br />
 ֍ regenerare număr *vieți*: la distrugerea fiecărui asteroid jucătorul va obține un număr de puncte. La atingerea unui număr predefinit de puncte, se va actualiza numărul de ”vieți”. <br />
 ֍ posibilitate control joc utilizând touchscreen <br />
 ֍ stocarea celor mai bune 5 scoruri obținute și a numelui jucătorilor cu ajutorul Web Storage API (sau a unui alt API similar) <br />
+
+# CAPTURĂ DE ECRAN DIN INTERFAȚĂ
