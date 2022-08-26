@@ -25,4 +25,4 @@ Obiective: <br />
 ֍ stocarea celor mai bune 5 scoruri obținute și a numelui jucătorilor cu ajutorul Web Storage API (sau a unui alt API similar) <br />
 
 # CAPTURĂ DE ECRAN DIN INTERFAȚĂ
-<img src="https://user-images.githubusercontent.com/62136927/131836395-e3b6f489-6a23-488d-a3bf-3156ec88479c.png" width="200" height="400">
+![Screenshot](images/ss.jpeg)
